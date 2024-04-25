@@ -32,3 +32,4 @@ D:\Usuarios\IsaacLlanda\Descargas\Calculadora\Calculadora\obj\Debug\net8.0-windo
 D:\Usuarios\IsaacLlanda\Descargas\Calculadora\Calculadora\obj\Debug\net8.0-windows\Calculadora.pdb
 D:\Usuarios\IsaacLlanda\Descargas\Calculadora\Calculadora\obj\Debug\net8.0-windows\Calculadora.genruntimeconfig.cache
 D:\Usuarios\IsaacLlanda\Descargas\Calculadora\Calculadora\obj\Debug\net8.0-windows\ref\Calculadora.dll
+D:\Usuarios\IsaacLlanda\Descargas\Calculadora\Calculadora\obj\Debug\net8.0-windows\Calculadora.sourcelink.json

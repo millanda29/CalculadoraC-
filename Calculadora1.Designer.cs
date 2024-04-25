@@ -66,7 +66,7 @@
             // 
             label1.AutoSize = true;
             label1.Font = new Font("Showcard Gothic", 15.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label1.Location = new Point(61, 32);
+            label1.Location = new Point(57, 11);
             label1.Name = "label1";
             label1.Size = new Size(160, 27);
             label1.TabIndex = 1;
@@ -76,12 +76,12 @@
             // 
             Pantalla.BackColor = SystemColors.GradientActiveCaption;
             Pantalla.Font = new Font("Segoe UI", 24F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            Pantalla.Location = new Point(12, 76);
+            Pantalla.Location = new Point(10, 47);
             Pantalla.Multiline = true;
             Pantalla.Name = "Pantalla";
-            Pantalla.Size = new Size(255, 70);
+            Pantalla.Size = new Size(255, 99);
             Pantalla.TabIndex = 2;
-            Pantalla.Text = "operacion\r\nresultado";
+            Pantalla.Text = "\r\n";
             Pantalla.TextAlign = HorizontalAlignment.Right;
             // 
             // btnResta
@@ -260,7 +260,7 @@
             btnPunto.Name = "btnPunto";
             btnPunto.Size = new Size(45, 41);
             btnPunto.TabIndex = 36;
-            btnPunto.Text = ".";
+            btnPunto.Text = ",";
             btnPunto.UseVisualStyleBackColor = false;
             btnPunto.Click += btnPunto_Click;
             // 
